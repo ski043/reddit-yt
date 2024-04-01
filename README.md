@@ -3,7 +3,7 @@
 - 🚀 Kinde Auth: https://dub.sh/xeU8r3v
 
 
-- 👨🏻‍💻 GitHub Repository: https://www.janmarshal.com/courses/create-an-airbnb-clone-with-next-js-14-kinde-supabase-prisma-and-tailwind
+- 👨🏻‍💻 GitHub Repository: https://janmarshal.com/courses/create-a-reddit-clone-with-next-js-14-kinde-supabase-uploadthing-prisma-and-tailwind
 - 🌍 My Website: https://www.janmarshal.com
 - 📧 Business ONLY: jan@alenix.de 
 
